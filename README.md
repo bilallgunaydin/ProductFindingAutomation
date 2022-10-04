@@ -3,7 +3,9 @@
 
 https://www.n11.com/ sitesinden windows form üzerinden yazılan ürün adına göre ürün bilgilerinin gelmesi ve yine formda yer alan anahtar sözcüğe göre Filtreleme yapılması amaçlanmıştır. 
 
-![N11-logo-768x699 (1)](https://user-images.githubusercontent.com/21973124/193421439-965b6bb0-bd51-403b-a0dd-6450dd2b18c5.png)
+![n11](https://user-images.githubusercontent.com/21973124/193904356-1d6a65a5-d908-4497-83c5-744391bdc81f.png)
+
+
 
     
 ## Kullanılan Teknolojiler
@@ -37,6 +39,9 @@ https://www.youtube.com/watch?v=gZC8myLQU0I&ab_channel=BilalG%C3%BCnayd%C4%B1n
 
 ![Uygulama Ekran Görüntüsü]
 
+![n11 1](https://user-images.githubusercontent.com/21973124/193904383-dcb7d881-a333-4816-8f37-14adfe098d24.jpg)
+
+![n11 2](https://user-images.githubusercontent.com/21973124/193904417-b292e052-e2b2-4b52-8d82-e62685f0eedd.jpg)
   
 ## Çıkarılan Dersler
 
