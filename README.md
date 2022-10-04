@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=gZC8myLQU0I&ab_channel=BilalG%C3%BCnayd%C4%B1n
   
 ## Çıkarılan Dersler
 
-Bu projeyi bana gönderileli 2.5 seneden fazla olmuştur. O zaman Yazılım Test ile ilgili bilgim yoktu. Bana gönderilen case'i yarım bırakıp beni böyle bir teknolojiden haberdar ettiğiniz için teşekkür etmiştim. Yazılım Testine son birkaç aydır eğildiğim için bu yarım kalan projeyi de tamamlamak istedim. DataGridView'de filtreleme yapmak biraz beni uğraştırdı ama projeyi yaparken eğlendim. 
+Bu proje bana gönderileli 2.5 seneden fazla olmuştur. Bana n11 sitesinden ürün çekip, filtrelememi istemişlerdi.  O zaman Yazılım Test ile ilgili bilgim yoktu. Bana gönderilen case'i yarım bırakıp, beni böyle bir teknolojiden haberdar ettiğiniz için teşekkür ederim demiştim. Yazılım Testine son birkaç aydır eğildiğim için bu yarım kalan projeyi de tamamlamak istedim. DataGridView'de filtreleme yapmak biraz beni uğraştırdı ama projeyi sonunda yaptım. Projeyi yaparken de epey eğlendim. :))
 
 
 
